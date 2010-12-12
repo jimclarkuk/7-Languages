@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>Documents/projects/7/Day2_tree.rb</string>
+	<string>Day2_study.rb</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -14,14 +14,38 @@
 					<string>Day1.rb</string>
 					<key>lastUsed</key>
 					<date>2010-12-12T13:15:34Z</date>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>input.txt</string>
+					<key>lastUsed</key>
+					<date>2010-12-12T16:06:18Z</date>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>Day2_study.rb</string>
+					<key>lastUsed</key>
+					<date>2010-12-12T16:06:18Z</date>
 					<key>selected</key>
 					<true/>
 				</dict>
 				<dict>
 					<key>filename</key>
+					<string>scratch.rb</string>
+					<key>lastUsed</key>
+					<date>2010-12-12T14:15:01Z</date>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>Day2_tofile.rb</string>
+					<key>lastUsed</key>
+					<date>2010-12-12T13:45:35Z</date>
+				</dict>
+				<dict>
+					<key>filename</key>
 					<string>Day2_tree.rb</string>
 					<key>lastUsed</key>
-					<date>2010-12-12T13:15:34Z</date>
+					<date>2010-12-12T14:35:27Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -34,43 +58,120 @@
 	<integer>199</integer>
 	<key>metaData</key>
 	<dict>
-		<key>Documents/projects/7/Day1.rb</key>
+		<key>Day2_study.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>15</integer>
+				<integer>95</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>54</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>15</integer>
+		</dict>
+		<key>Day2_tofile.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>74</integer>
+				<key>line</key>
+				<integer>6</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Documents/projects/7/Day2_tree.rb</key>
+		<key>Day2_tree.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>39</integer>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>48</integer>
 				<key>line</key>
 				<integer>25</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<key>input.txt</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>8</integer>
+				<key>line</key>
+				<integer>3</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
+		</dict>
+		<key>scratch.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>70</integer>
+				<key>line</key>
+				<integer>6</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>5</integer>
+				<key>line</key>
+				<integer>6</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>70</integer>
+				<key>line</key>
+				<integer>6</integer>
+			</dict>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>Documents/projects/7/Day1.rb</string>
-		<string>Documents/projects/7/Day2_tree.rb</string>
+		<string>Day2_tree.rb</string>
+		<string>Day2_tofile.rb</string>
+		<string>scratch.rb</string>
+		<string>Day2_study.rb</string>
+		<string>input.txt</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{0, -6}, {661, 774}}</string>
+	<string>{{54, 17}, {925, 761}}</string>
 </dict>
 </plist>
