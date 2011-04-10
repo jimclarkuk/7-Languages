@@ -3,221 +3,54 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>day3_meta.rb</string>
+	<string>io/fib.io</string>
 	<key>documents</key>
 	<array>
 		<dict>
-			<key>children</key>
-			<array>
-				<dict>
-					<key>filename</key>
-					<string>Day1.rb</string>
-					<key>lastUsed</key>
-					<date>2010-12-12T13:15:34Z</date>
-				</dict>
-				<dict>
-					<key>filename</key>
-					<string>input.txt</string>
-					<key>lastUsed</key>
-					<date>2010-12-12T21:22:54Z</date>
-				</dict>
-				<dict>
-					<key>filename</key>
-					<string>RubyCsv2.csv</string>
-					<key>lastUsed</key>
-					<date>2010-12-12T22:30:31Z</date>
-				</dict>
-				<dict>
-					<key>filename</key>
-					<string>RubyCsv.csv</string>
-					<key>lastUsed</key>
-					<date>2010-12-12T22:30:33Z</date>
-				</dict>
-				<dict>
-					<key>filename</key>
-					<string>day3_meta.rb</string>
-					<key>lastUsed</key>
-					<date>2010-12-12T22:30:33Z</date>
-					<key>selected</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>filename</key>
-					<string>day3_numerals.rb</string>
-					<key>lastUsed</key>
-					<date>2010-12-12T22:25:50Z</date>
-				</dict>
-				<dict>
-					<key>filename</key>
-					<string>Day2_study.rb</string>
-					<key>lastUsed</key>
-					<date>2010-12-12T21:21:50Z</date>
-				</dict>
-				<dict>
-					<key>filename</key>
-					<string>scratch.rb</string>
-					<key>lastUsed</key>
-					<date>2010-12-12T21:21:44Z</date>
-				</dict>
-				<dict>
-					<key>filename</key>
-					<string>Day2_tofile.rb</string>
-					<key>lastUsed</key>
-					<date>2010-12-12T21:21:42Z</date>
-				</dict>
-				<dict>
-					<key>filename</key>
-					<string>Day2_tree.rb</string>
-					<key>lastUsed</key>
-					<date>2010-12-12T21:21:37Z</date>
-				</dict>
-			</array>
 			<key>expanded</key>
 			<true/>
 			<key>name</key>
-			<string>Ruby</string>
+			<string>io</string>
+			<key>regexFolderFilter</key>
+			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+			<key>sourceDirectory</key>
+			<string>io</string>
+		</dict>
+		<dict>
+			<key>expanded</key>
+			<true/>
+			<key>name</key>
+			<string>ruby</string>
+			<key>regexFolderFilter</key>
+			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+			<key>sourceDirectory</key>
+			<string>ruby</string>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>199</integer>
 	<key>metaData</key>
 	<dict>
-		<key>Day2_study.rb</key>
+		<key>io/fib.io</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>95</integer>
+				<integer>22</integer>
 				<key>line</key>
-				<integer>54</integer>
+				<integer>23</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Day2_tofile.rb</key>
+		<key>io/scratch.io</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>74</integer>
-				<key>line</key>
-				<integer>6</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>Day2_tree.rb</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>48</integer>
-				<key>line</key>
-				<integer>25</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<key>RubyCsv.csv</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>5</integer>
-				<key>line</key>
-				<integer>2</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>RubyCsv2.csv</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>21</integer>
-				<key>line</key>
-				<integer>1</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>day3_meta.rb</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>28</integer>
-				<key>line</key>
-				<integer>54</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>18</integer>
-		</dict>
-		<key>day3_numerals.rb</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>2</integer>
-				<key>line</key>
-				<integer>1</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>37</integer>
-				<key>line</key>
-				<integer>1</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>2</integer>
-				<key>line</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<key>input.txt</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>8</integer>
+				<integer>10</integer>
 				<key>line</key>
 				<integer>3</integer>
 			</dict>
@@ -226,52 +59,15 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>scratch.rb</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>14</integer>
-				<key>line</key>
-				<integer>6</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>5</integer>
-				<key>line</key>
-				<integer>6</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>14</integer>
-				<key>line</key>
-				<integer>6</integer>
-			</dict>
-		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>Day2_tree.rb</string>
-		<string>Day2_tofile.rb</string>
-		<string>scratch.rb</string>
-		<string>Day2_study.rb</string>
-		<string>day3_numerals.rb</string>
-		<string>day3_meta.rb</string>
-		<string>RubyCsv.csv</string>
-		<string>RubyCsv2.csv</string>
-		<string>input.txt</string>
+		<string>io/scratch.io</string>
+		<string>io/fib.io</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{54, 17}, {925, 761}}</string>
+	<string>{{38, 4}, {925, 761}}</string>
 </dict>
 </plist>
