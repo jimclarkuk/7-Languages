@@ -18,5 +18,3 @@ def rubyfor {
 	args.foreach{ arg => println(arg)
 	}
 }   
-
-rubyfor
